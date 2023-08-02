@@ -36,7 +36,7 @@ Para realizar la clonación del proyecto es importante considerar los siguientes
 
 ```
 - Crear una carpeta donde quieras almacenar el proyecto.
-- Abrir la consola Git Bash y ejecutar el siguiente comando: "git clone http://inboggit01.suramericana.com.co:8080/gitbucket/git/AutomatizacionDeProcesos/PruebasFuncionalesVidaGrupo.git"
+- Abrir la consola Git Bash y ejecutar el siguiente comando: "git clone https://github.com/desarrollojesusdorado/EspecializaAutomatizacion.git"
 - Abrir el IDE ya sea Intellij ó Eclipse y realizar la importación del proyecto.
 ```
 ## Arquitectura del proyecto
